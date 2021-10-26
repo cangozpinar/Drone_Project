@@ -1,0 +1,3 @@
+[submodule "PX4-Autopilot"]
+	path = PX4-Autopilot
+	url = https://github.com/cangozpinar/PX4_Autopilot_Drone_Project.git
